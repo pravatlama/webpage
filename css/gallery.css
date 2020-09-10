@@ -148,11 +148,9 @@
 }
 
 
-
-
-
-
-
-
-
-
+@media (max-width: 900px) {
+	#index-gallery .gallery-img {
+		width: 100%;
+		height: 300px; 
+	}
+}
