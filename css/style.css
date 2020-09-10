@@ -4,13 +4,17 @@
 	box-sizing: border-box;
 }
 body{
+	max-width: 1140px;
+	margin: auto;
 	font-size: 18px;
 	overflow-x: hidden;
 	font-family: 'Montserrat', sans-serif;
 	background-color: #bfbfbf;
 }
 header{
+	margin: auto;
 	background-color: #151515;
+	max-width: 1140px;
 	width: 100%;
 	overflow: hidden;
 	position: fixed;
